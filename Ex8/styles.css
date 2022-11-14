@@ -1,0 +1,15 @@
+body{
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+li{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    background-color: aquamarine;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
